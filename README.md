@@ -16,7 +16,7 @@ go test -v ./...
 
 | # | Title | Solution | Difficulty | Time | Space |
 | --- | --- | --- | --- | --- | --- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](./problems/00001-two-sum/solution.go) | Easy | O(n) | O(n) |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](./problems/0001-two-sum/solution.go) | Easy | O(n) | O(n) |
 | 0002 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./problems/0002-reverse-string/solution.go) | Easy | O(n) | O(n) |
 
 
