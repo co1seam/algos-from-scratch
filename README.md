@@ -18,5 +18,6 @@ go test -v ./...
 | --- | --- | --- | --- | --- | --- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](./problems/0001-two-sum/solution.go) | Easy | O(n) | O(n) |
 | 0002 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./problems/0002-reverse-string/solution.go) | Easy | O(n) | O(n) |
+| 0003 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](./problems/0003-is-palindrome/solution.go) | Easy | O(n) | O(n) |
 
 
