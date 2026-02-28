@@ -1,4 +1,4 @@
-package reversestring
+package revstr
 
 import (
 	"reflect"

@@ -1,5 +1,5 @@
-// package reversestring provides a solution for the "Reverse String" problem.
-package reversestring
+// package revstr provides a solution for the "Reverse String" problem.
+package revstr
 
 // ReverseString reverses the order of elements in the given byte slice in place.
 // it does not allocate new slice, the function modifies the underlying array of the slice.
