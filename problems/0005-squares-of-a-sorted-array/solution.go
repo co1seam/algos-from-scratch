@@ -2,7 +2,8 @@
 package sortsqr
 
 // SortedSqueares takes a slice of integers sorted in non non-decreasing order
-// and returns a new slice  containing the squares of each num, also sorted in non-decreasing order.
+// and returns a new slice  containing the squares of each num, also sorted
+// in non-decreasing order.
 //
 // Time complexity: O(n)
 // Space complexity: O(n)
