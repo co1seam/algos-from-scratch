@@ -21,5 +21,4 @@ go test -v ./...
 | 0003 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](./problems/0003-is-palindrome/solution.go) | Easy | O(n) | O(n) |
 | 0004 | [3Sum](https://leetcode.com/problems/3sum/) | [Go](./problems/0004-three-sum/solution.go) | Middle | O(n²) | O(log n) |
 | 0005 | [Sorted Squares](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Go](./problems/0005-squares-of-a-sorted-array/solution.go) | Easy | O(n) | O(n) |
-
-
+| 0006 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Go](./problems/0006-is-subsequence/solution.go) | Easy | O(n) | O(1) |
